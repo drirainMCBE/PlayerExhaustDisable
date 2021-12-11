@@ -1,0 +1,6 @@
+name: PlayerExhaustDisable
+main: RoMo\PlayerExhaustDisable\PlayerExhaustDisable
+author: RoMo_Official
+version: 1.0.0
+api:
+  - 4.0.0
